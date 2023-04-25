@@ -1,0 +1,13 @@
+name: stocklytics
+title: stocklytics
+username:
+account: maxmiles
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3593925
+bundleId: 4191367
+url: https://maxmiles.shinyapps.io/stocklytics/
+when: 1612686890.2317
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|data/gambiste-2020-12-18.csv|data/gambiste-backup.csv|data/machine_learning.csv|data/scrapeddf.csv

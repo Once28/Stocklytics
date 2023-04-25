@@ -1,0 +1,12 @@
+name: Stocklytics
+title: Stocklytics
+username:
+account: justinzeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3595671
+bundleId: 4191387
+url: https://justinzeng.shinyapps.io/Stocklytics/
+when: 1612687548.59223
+asMultiple: FALSE
+asStatic: FALSE
